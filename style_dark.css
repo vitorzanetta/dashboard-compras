@@ -1,0 +1,61 @@
+
+/* Container e plano de fundo */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Espaçamento interno */
+.block-container {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+/* Títulos */
+h1, h2, h3 {
+    color: #ffffff;
+}
+
+/* Métricas */
+[data-testid="stMetricValue"] {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #1abc9c;
+}
+
+/* Botões */
+button, .stButton>button {
+    background-color: #1abc9c;
+    color: black;
+    border-radius: 8px;
+}
+button:hover {
+    background-color: #16a085;
+}
+
+/* Seletores */
+.stSelectbox, .stMultiSelect {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-size: 0.95rem;
+}
+
+/* Abas */
+[data-baseweb="tab"] {
+    color: #ecf0f1;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+/* Rodapé */
+footer {
+    visibility: hidden;
+}
+
+/* Tabela */
+.stDataFrame {
+    background-color: #1f1f1f;
+}
