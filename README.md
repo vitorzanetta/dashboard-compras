@@ -39,7 +39,7 @@ streamlit run py001.py
 
 ![Dashboard de Compras](screenshot.png)
 
-## 💡 Sugestões de melhoria
+## 💡 Próximas melhorias
 
 - Autenticação de usuários
 - Upload dinâmico da base .csv
