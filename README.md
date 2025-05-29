@@ -37,7 +37,7 @@ streamlit run py001.py
 
 ## 📸 Exemplos de Tela
 
-<img src="https://via.placeholder.com/700x400.png?text=Dashboard+Principal" alt="Dashboard Compras" />
+![Dashboard de Compras](screenshot.png)
 
 ## 💡 Sugestões de melhoria
 
